@@ -27,7 +27,21 @@
         'traitor trooper': 'https://wh40k.lexicanum.com/mediawiki/images/0/05/TraitorTrooper.jpg',
         'traitor chieftan': 'https://wh40k.lexicanum.com/mediawiki/images/1/1d/TraitorChieftain.jpg',
 
-        // Corsairs
+        // Gellerpox
+        'vulgrar thrice-cursed': 'https://wh40k.lexicanum.com/mediawiki/images/3/33/Vulgrar.jpg',
+
+        // Fellgor
+        'fellgor ironhorn': 'https://wh40k.lexicanum.com/mediawiki/images/3/32/Fellgore2.jpg',
+        'fellgor deathknell': 'https://wh40k.lexicanum.com/mediawiki/images/0/05/Fellgore8.jpg',
+        'fellgor fluxbray': 'https://wh40k.lexicanum.com/mediawiki/images/d/d3/Fellgore3.jpg',
+        'fellgor gnarlscar': 'https://wh40k.lexicanum.com/mediawiki/images/e/e3/Fellgore10.jpg',
+        'fellgor gorehorn': 'https://wh40k.lexicanum.com/mediawiki/images/6/63/Fellgore6.jpg',
+        'fellgor herd-goad': 'https://wh40k.lexicanum.com/mediawiki/images/d/d3/Fellgore4.jpg',
+        'fellgor mangler': 'https://wh40k.lexicanum.com/mediawiki/images/9/90/Fellgore9.jpg',
+        'fellgor shaman': 'https://wh40k.lexicanum.com/mediawiki/images/0/08/Fellgore7.jpg',
+        'fellgor toxhorn': 'https://wh40k.lexicanum.com/mediawiki/images/1/1b/Fellgore1.jpg',
+        'fellgor vandal': 'https://wh40k.lexicanum.com/mediawiki/images/3/31/Fellgore5.jpg',
+        //'fellgor warrior': '',
     }
     function getImageUrl(modelName) {
         if (modelName in imageURLs) {
